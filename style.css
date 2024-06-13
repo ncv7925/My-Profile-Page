@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(42, 153, 38);
+    text-align: center;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+} 
+
+h2 {
+    color: rgba(5, 155, 255, 0.966);
+}
+
+body {
+    background-color: rgba(5, 253, 220, 0.945);
+}
+
+.styleli{
+    color: rgb(49, 211, 8);
+    font-weight: 300;
+    font-size: 18px;
+}

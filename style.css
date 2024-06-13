@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(42, 153, 38);
+    color: rgb(0, 38, 255);
     text-align: center;
 }
 p{
@@ -12,18 +12,23 @@ h2 {
 }
 
 body {
-    background-color: rgba(5, 253, 220, 0.945);
+    background-color: rgba(4, 247, 105, 0.945);
 }
 
 .styleli{
-    color: rgb(49, 211, 8);
+    color: rgb(8, 79, 211);
     font-weight: 300;
     font-size: 18px;
 }
 
 .mybutton {
-    background-color: cornflowerblue;
+    background-color: rgb(255, 217, 0);
     color: cadetblue;padding:10px 20px ;
     border: none;
     cursor: pointer;
+}
+
+.images {
+    width: 200px;
+    height: 200px;
 }

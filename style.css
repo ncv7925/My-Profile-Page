@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(0, 38, 255);
+    color: rgb(56, 175, 20);
     text-align: center;
 }
 p{
@@ -23,12 +23,12 @@ body {
 
 .mybutton {
     background-color: rgb(255, 217, 0);
-    color: cadetblue;padding:10px 20px ;
+    color: rgb(4, 238, 247);padding:10px 20px ;
     border: none;
     cursor: pointer;
 }
 
 .images {
-    width: 200px;
+    width: 270px; 
     height: 200px;
 }
